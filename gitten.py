@@ -1,1 +1,2 @@
-print("Pierwsza linijka")
+print("Pierwsza linijka z github")
+print("esz")
